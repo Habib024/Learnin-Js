@@ -1,2 +1,2 @@
-# Learnin-Js
+# Learning-Js
 starting learning javascript 
